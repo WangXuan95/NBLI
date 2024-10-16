@@ -178,13 +178,13 @@ Thank the bottle of beer I drank on the evening after my PhD dissertation, which
 
 As for [NBLI](./NBLI.exe), Its main method is not novel. The following works and peoples need to be mentioned:
 
-- [ANS entropy coding](./Asymmetric numeral systems) by [Jarosław Duda](https://en.wikipedia.org/wiki/Jarosław_Duda_(computer_scientist)), [Yann Collet](https://github.com/Cyan4973), et al.
+- [ANS-entropy-coding](https://en.wikipedia.org/wiki/Asymmetric_numeral_systems) by [Jarosław Duda](https://en.wikipedia.org/wiki/Jarosław_Duda_(computer_scientist)), [Yann Collet](https://github.com/Cyan4973), et al.
 - CALIC: Context-based, adaptive, lossless image coding: https://ieeexplore.ieee.org/abstract/document/585919 by X. Wu et al.
 - EDP: Edge-directed prediction for lossless compression of natural images: https://ieeexplore.ieee.org/abstract/document/923277 by Xin Li et al.
 - Glicbawls: Gray Level Image Compression by Adaptive Weighted Least Squares: https://www.researchgate.net/publication/221578041_Glicbawls_-_Grey_Level_Image_Compression_by_Adaptive_Weighted_Least_Squares by Bernd Meyer et al.
 - MRP: Lossless coding using variable block-size adaptive prediction optimized for each image: https://ieeexplore.ieee.org/document/7078076 by Ichiro Matsuda et al.
 - A lossless color image compression method based on a new reversible color transform: https://ieeexplore.ieee.org/document/6410808 by Seyun Kim et al.
-- JPEG-LS extension (ITU-T T.870)
-- The experts of data compression, [Alex Rhatushnyak](http://qlic.altervista.org/) and [Matt Mahoney](https://mattmahoney.net/) 
+- [JPEG-LS extension](https://github.com/WangXuan95/JPEG-LS_extension) ([ITU-T T.870](https://www.itu.int/rec/T-REC-T.870/en))
+- The experts of data compression, [Alex Rhatushnyak](http://qlic.altervista.org/), [Matt Mahoney](https://mattmahoney.net/), [Igor Pavlov](https://7-zip.org/), et al.
 - And of course, Claude E. Shannon.
 
